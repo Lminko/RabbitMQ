@@ -22,6 +22,8 @@ public class Producer {
         return "";
     }
 
+    //1.0分支
+
     public static void main(String[] args) throws Exception {
         /**
          *  创建消息服务器连接对象，设置连接属性：
