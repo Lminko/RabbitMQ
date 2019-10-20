@@ -17,6 +17,11 @@ import java.util.concurrent.TimeoutException;
 
 public class Producer {
 
+    public String Producer() {
+
+        return "";
+    }
+
     public static void main(String[] args) throws Exception {
         /**
          *  创建消息服务器连接对象，设置连接属性：
