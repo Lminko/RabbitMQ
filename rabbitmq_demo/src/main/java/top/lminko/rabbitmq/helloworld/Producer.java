@@ -19,6 +19,8 @@ public class Producer {
 
     public String Producer() {
 
+        System.out.println("22222222");
+
         return "";
     }
 
